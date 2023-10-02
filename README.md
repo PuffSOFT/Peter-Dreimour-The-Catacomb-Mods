@@ -14,6 +14,7 @@ Catacomb 3D Mods:
 The Catacomb Adventure Series Mods:
 
 1. Peter Dreimour INT-W (Catacomb Abyss Mod)
+2. Peter Dreimour W-Shimori (Catacomb Armageddon Mod) *Coming Soon*
 
 
 Artist And Modifier: Puffle Dreemurr
